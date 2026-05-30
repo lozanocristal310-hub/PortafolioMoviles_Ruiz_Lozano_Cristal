@@ -290,7 +290,7 @@ Aprendí a desarrollar interfaces móviles con Flutter, utilizando widgets, mane
 
 
 
-Lo más complejo fue entender la navegación entre pantallas y la actualización dinámica del estado, especialmente al implementar la lista de favoritos y su sincronización con la interfaz.
+La parte más compleja fue implementar la navegación entre pantallas utilizando el estado de la aplicación, así como garantizar la correcta actualización de la lista de favoritos sin generar inconsistencias en la interfaz. También fue necesario comprender cómo se sincroniza el estado global con los widgets para reflejar en tiempo real los cambios al agregar o eliminar elementos.
 
 
 
@@ -302,7 +302,7 @@ Lo más complejo fue entender la navegación entre pantallas y la actualización
 
 
 
-Como mejora futura, integraría almacenamiento local para que los favoritos se mantengan incluso al cerrar la aplicación, además de mejorar el diseño visual con animaciones y una interfaz más profesional.
+Como mejora, implementaría almacenamiento persistente (por ejemplo, mediante almacenamiento local) para conservar los elementos favoritos incluso después de cerrar la aplicación. Además, optimizaría el diseño de la interfaz incorporando animaciones y mejoras visuales para hacer la experiencia de usuario más dinámica, intuitiva y visualmente atractiva.
 
 
 
