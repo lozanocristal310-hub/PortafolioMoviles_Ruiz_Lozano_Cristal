@@ -204,7 +204,7 @@ Al ejecutar la aplicación se muestra un menú interactivo que permite acceder a
 
 
 
-!\[Menú Principal](capturas/menu\_inicio.png)
+!\[Menú Principal](Capturas/menu\_inicio.png)
 
 
 
@@ -220,7 +220,7 @@ El archivo `datos.json` contiene los 20 registros utilizados para realizar el an
 
 
 
-!\[Archivo JSON](capturas/datos.png)
+!\[Archivo JSON](Capturas/datos.png)
 
 
 
@@ -236,7 +236,7 @@ Muestra todos los registros cargados desde el archivo JSON, incluyendo nombre, e
 
 
 
-!\[Mostrar Registros](capturas/opcion1.png)
+!\[Mostrar Registros](Capturas/opcion1.png)
 
 
 
@@ -252,7 +252,7 @@ Permite ingresar un salario mínimo de $7000. El sistema muestra únicamente los
 
 
 
-!\[Filtrar por Salario](capturas/opcion4.png)
+!\[Filtrar por Salario](Capturas/opcion4.png)
 
 
 
@@ -268,7 +268,7 @@ Genera automáticamente un archivo denominado `resumen.json` que contiene las es
 
 
 
-!\[Exportar Resumen](capturas/opcion6.png)
+!\[Exportar Resumen](Capturas/opcion6.png)
 
 
 
@@ -284,7 +284,7 @@ Visualización del contenido del archivo `resumen.json` generado por la aplicaci
 
 
 
-!\[Resultados](capturas/resultados.png)
+!\[Resultados](Capturas/resultados.png)
 
 
 
