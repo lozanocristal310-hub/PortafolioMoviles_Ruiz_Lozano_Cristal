@@ -1,211 +1,226 @@
-# \# Portafolio de Proyectos — Desarrollo de Aplicaciones para Dispositivos Móviles
+\# Portafolio de Proyectos — Desarrollo de Aplicaciones para Dispositivos Móviles
 
-# 
 
-# \---
 
-# 
+\---
 
-# \## 🏫 Institución
 
-# 
 
-# !\[Instituto Tecnológico Superior de Lerdo](https://tse3.mm.bing.net/th/id/OIP.qQupj\_Qcl-ccaiwVz1CmdAHaHc?rs=1\&pid=ImgDetMain\&o=7\&rm=3)
+\## Información del Alumno
 
-# 
 
-# \---
 
-# 
+| Campo                 | Información                                          |
 
-# \## 👩‍🎓 Datos del alumno
+| :-------------------- | :--------------------------------------------------- |
 
-# 
+| \*\*Nombre\*\*            | Cristal Ruiz Lozano                                  |
 
-# \- \*\*Nombre:\*\* Cristal Ruiz Lozano  
+| \*\*Número de control\*\* | 222310571                                            |
 
-# \- \*\*Número de control:\*\* 222310571  
+| \*\*Materia\*\*           | Desarrollo de Aplicaciones para Dispositivos Móviles |
 
-# \- \*\*Materia:\*\* Desarrollo de Aplicaciones para Dispositivos Móviles  
+| \*\*Institución\*\*       | Instituto Tecnológico Superior de Lerdo              |
 
-# \- \*\*Institución:\*\* Instituto Tecnológico Superior de Lerdo  
+| \*\*Docente\*\*           | Jesús Salas Marín                                    |
 
-# \- \*\*Docente:\*\* Jesús Salas Marín  
+| \*\*Semestre\*\*          | Octavo semestre                                      |
 
-# \- \*\*Semestre:\*\* Octavo semestre  
+| \*\*Periodo\*\*           | Ene - Jun 2026                                       |
 
-# \- \*\*Periodo:\*\* Ene - Jun 2026  
 
-# 
 
-# \---
+\---
 
-# 
 
-# \## 📌 Descripción general del portafolio
 
-# 
+\## 🏫 Institución
 
-# Este portafolio reúne el trabajo desarrollado durante la materia de \*\*Desarrollo de Aplicaciones para Dispositivos Móviles\*\*, donde se implementaron aplicaciones móviles utilizando \*\*Flutter y Dart\*\*.
 
-# 
 
-# En él se integran diferentes proyectos enfocados en:
+!\[Instituto Tecnológico Superior de Lerdo](https://tse3.mm.bing.net/th/id/OIP.qQupj\_Qcl-ccaiwVz1CmdAHaHc?rs=1\\\&pid=ImgDetMain\\\&o=7\\\&rm=3)
 
-# 
 
-# \- Generación de contenido dinámico
 
-# \- Manejo de estado en aplicaciones móviles
+\---
 
-# \- Navegación entre pantallas
 
-# \- Reproducción de audio
 
-# \- Diseño de interfaces modernas y responsivas
+\## Descripción General
 
-# \- Organización de proyectos en estructuras profesionales
 
-# 
 
-# \---
+Este portafolio reúne el trabajo desarrollado durante la materia de Desarrollo de Aplicaciones para Dispositivos Móviles, donde se implementaron aplicaciones móviles utilizando Flutter y Dart.
 
-# 
 
-# \## 🧰 Tecnologías utilizadas
 
-# 
+En él se integran diferentes proyectos enfocados en:
 
-# | Tecnología | Descripción |
 
-# |------------|-------------|
 
-# | !\[Dart](https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png) Dart | Lenguaje principal para la lógica de las aplicaciones |
+\* Generación de contenido dinámico
 
-# | !\[Flutter](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png) Flutter | Framework para desarrollo móvil multiplataforma |
+\* Manejo de estado en aplicaciones móviles
 
-# | !\[VS Code](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual\_Studio\_Code\_1.35\_icon.svg) Visual Studio Code | Entorno de desarrollo |
+\* Navegación entre pantallas
 
-# | !\[GitHub](https://github.githubassets.com/images/modules/logos\_page/GitHub-Mark.png) GitHub | Control de versiones y alojamiento de proyectos |
+\* Reproducción de audio
 
-# | Material Design | Sistema de diseño para interfaces modernas |
+\* Diseño de interfaces modernas y responsivas
 
-# 
+\* Organización de proyectos en estructuras profesionales
 
-# \---
 
-# 
 
-\## 📁 Estructura del repositorio
-!\[Evidencias](https://drive.google.com/uc?export=view\&id=1p2RJzLq\_mOOtKD7RAS1Vz719LuRQklM6)
+\---
 
-===
 
-# \---
 
-# 
+\## 🧰 Tecnologías Utilizadas
 
-# \## 📱 Proyectos incluidos
 
-# 
 
-# \### 📊 Proyecto 1: Análisis de Datos con Dart
+| Tecnología                                                                                                                                | Descripción                                           |
 
-# Aplicación de consola para análisis de datos en JSON, con filtrado, búsqueda y generación de estadísticas.
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 
-# 
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="20"/> \*\*Dart\*\*                   | Lenguaje principal para la lógica de las aplicaciones |
 
-# \---
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="20"/> \*\*Flutter\*\*          | Framework para desarrollo móvil multiplataforma       |
 
-# 
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20"/> \*\*Visual Studio Code\*\* | Entorno de desarrollo                                 |
 
-# \### 📱 Proyecto 2: Generador de Palabras y Favoritos
+| <img src="https://github.githubassets.com/images/modules/logos\_page/GitHub-Mark.png" width="20"/> \*\*GitHub\*\*                              | Control de versiones y alojamiento de proyectos       |
 
-# Aplicación móvil en Flutter con generación de palabras aleatorias, sistema de favoritos y navegación entre pantallas.
+| 📐 \*\*Material Design\*\*                                                                                                                    | Sistema de diseño para interfaces modernas            |
 
-# 
 
-# \---
 
-# 
+\---
 
-# \### 🎵 Proyecto 3: Mini Reproductor de Música
 
-# Aplicación multimedia en Flutter con reproducción de audio, animaciones, barra de progreso y controles de música.
 
-# 
+\## 📁 Estructura del Repositorio
 
-# \---
 
-# 
+
+\[https://drive.google.com/file/d/1p2RJzLq\_mOOtKD7RAS1Vz719LuRQklM6/view?usp=sharing](https://drive.google.com/file/d/1p2RJzLq\_mOOtKD7RAS1Vz719LuRQklM6/view?usp=sharing)
+
+
+
+\---
+
+
+
+\## Proyectos Incluidos
+
+
+
+\### Proyecto 1: Análisis de Datos con Dart
+
+
+
+Aplicación de consola para análisis de datos en JSON, con filtrado, búsqueda y generación de estadísticas.
+
+
+
+\---
+
+
+
+\### Proyecto 2: Generador de Palabras y Favoritos
+
+
+
+Aplicación móvil en Flutter con generación de palabras aleatorias, sistema de favoritos y navegación entre pantallas.
+
+
+
+\---
+
+
+
+\### Proyecto 3: Mini Reproductor de Música
+
+
+
+Aplicación multimedia en Flutter con reproducción de audio, animaciones, barra de progreso y controles de música.
+
+
+
+\---
+
+
 
 \## 📂 Evidencias
 
-===
 
-# 
 
-# La carpeta \*\*Evidencias/\*\* contiene capturas generales del desarrollo de los tres proyectos, incluyendo:
+!\[Evidencias](https://drive.google.com/uc?export=view\\\&id=1p2RJzLq\_mOOtKD7RAS1Vz719LuRQklM6)
 
-# 
 
-# \- Interfaz de las aplicaciones
 
-# \- Resultados de ejecución
+La carpeta \*\*Evidencias/\*\* contiene capturas del desarrollo de los tres proyectos:
 
-# \- Funcionalidades principales
 
-# \- Pruebas de funcionamiento
 
-# 
+\* Interfaz de las aplicaciones
 
-# \---
+\* Resultados de ejecución
 
-# 
+\* Funcionalidades principales
 
-# \## 🎯 Competencias desarrolladas
+\* Pruebas de funcionamiento
 
-# 
 
-# \- Desarrollo de aplicaciones móviles con Flutter
 
-# \- Programación en Dart
+\---
 
-# \- Manejo de estado en aplicaciones
 
-# \- Diseño de interfaces responsivas
 
-# \- Organización de proyectos en GitHub
+\## 🎯 Competencias Desarrolladas
 
-# \- Integración de multimedia en aplicaciones móviles
 
-# \- Trabajo con estructuras de datos y archivos JSON
 
-# 
+\* Desarrollo de aplicaciones móviles con Flutter
 
-# \---
+\* Programación en Dart
 
-# 
+\* Manejo de estado en aplicaciones
 
-# \## 🚀 Objetivo del portafolio
+\* Diseño de interfaces responsivas
 
-# 
+\* Organización de proyectos en GitHub
 
-# Demostrar las competencias adquiridas en el desarrollo de aplicaciones móviles mediante la implementación de proyectos funcionales, organizados y documentados profesionalmente.
+\* Integración de multimedia en aplicaciones móviles
 
-# 
+\* Trabajo con estructuras de datos y archivos JSON
 
-# \---
 
-# 
 
-# \## 📌 Nota
+\---
 
-# 
 
-Este portafolio está diseñado para evidenciar el aprendizaje progresivo en el desarrollo de aplicaciones móviles utilizando tecnologías modernas como Flutter y Dart.
 
-===
+\## 🚀 Objetivo del Portafolio
+
+
+
+Demostrar las competencias adquiridas en el desarrollo de aplicaciones móviles mediante la implementación de proyectos funcionales, organizados y documentados profesionalmente.
+
+
+
+\---
+
+
+
+\## 📌 Nota
+
+
+
+Este portafolio está diseñado para evidenciar el aprendizaje progresivo en el desarrollo de aplicaciones móviles utilizando Flutter y Dart.
+
+
 
 
 
