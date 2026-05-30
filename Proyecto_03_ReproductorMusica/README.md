@@ -1,12 +1,12 @@
-\# Proyecto 3: Mini Reproductor de Música en Flutter
+# Proyecto 3: Mini Reproductor de Música en Flutter
 
 
 
-\---
+---
 
 
 
-\## 1. Objetivo del Proyecto
+## 1. Objetivo del Proyecto
 
 
 
@@ -18,11 +18,11 @@ La aplicación también muestra el progreso de la canción en tiempo real median
 
 
 
-\---
+---
 
 
 
-\## 2. Problema que Resuelve
+## 2. Problema que Resuelve
 
 
 
@@ -34,37 +34,37 @@ Este proyecto automatiza la reproducción de música dentro de una aplicación m
 
 
 
-\---
+---
 
 
 
-\## 3. Tecnologías Utilizadas
+## 3. Tecnologías Utilizadas
 
 
 
-\* \*\*Flutter\*\* - Framework utilizado para el desarrollo de la interfaz de la aplicación.
+* **Flutter** - Framework utilizado para el desarrollo de la interfaz de la aplicación.
 
-\* \*\*Dart\*\* - Lenguaje de programación utilizado para la lógica del reproductor.
+* **Dart** - Lenguaje de programación utilizado para la lógica del reproductor.
 
-\* \*\*Visual Studio Code\*\* - Entorno de desarrollo utilizado para escribir y ejecutar el proyecto.
+* **Visual Studio Code** - Entorno de desarrollo utilizado para escribir y ejecutar el proyecto.
 
-\* \*\*just\_audio\*\* - Librería utilizada para la reproducción de archivos de audio.
+* **just\_audio** - Librería utilizada para la reproducción de archivos de audio.
 
-\* \*\*rxdart\*\* - Librería utilizada para la actualización en tiempo real del progreso del audio.
+* **rxdart** - Librería utilizada para la actualización en tiempo real del progreso del audio.
 
-\* \*\*Material Design\*\* - Sistema de diseño utilizado para la construcción de la interfaz.
-
-
-
-\---
+* **Material Design** - Sistema de diseño utilizado para la construcción de la interfaz.
 
 
 
-\## 4. Conceptos Aplicados
+---
 
 
 
-\### Programación Orientada a Objetos (POO)
+## 4. Conceptos Aplicados
+
+
+
+### Programación Orientada a Objetos (POO)
 
 
 
@@ -72,11 +72,11 @@ Se implementaron clases como `MusicPlayerScreen` para estructurar la lógica del
 
 
 
-\---
+---
 
 
 
-\### Manejo de Estado
+### Manejo de Estado
 
 
 
@@ -84,11 +84,11 @@ Se utilizó `StatefulWidget` para actualizar la interfaz en tiempo real dependie
 
 
 
-\---
+---
 
 
 
-\### Reproducción de Audio
+### Reproducción de Audio
 
 
 
@@ -96,11 +96,11 @@ Se utilizó la librería `just\_audio` para reproducir, pausar y cambiar cancion
 
 
 
-\---
+---
 
 
 
-\### Animaciones
+### Animaciones
 
 
 
@@ -108,11 +108,11 @@ Se implementó `AnimationController` para generar la animación de rotación de 
 
 
 
-\---
+---
 
 
 
-\### Streams
+### Streams
 
 
 
@@ -120,11 +120,11 @@ Se utilizó `rxdart` para actualizar en tiempo real la barra de progreso del aud
 
 
 
-\---
+---
 
 
 
-\### Manejo de Assets
+### Manejo de Assets
 
 
 
@@ -132,11 +132,11 @@ Se configuraron las carpetas `audio` e `images` dentro del proyecto para almacen
 
 
 
-\---
+---
 
 
 
-\## 5. Instrucciones de Ejecución
+## 5. Instrucciones de Ejecución
 
 
 
@@ -176,15 +176,15 @@ flutter run
 
 
 
-\---
+---
 
 
 
-\## 6. Capturas de Pantalla
+## 6. Capturas de Pantalla
 
 
 
-\### Pantalla Principal
+### Pantalla Principal
 
 
 
@@ -192,15 +192,15 @@ La aplicación muestra el reproductor de música con la portada de la canción, 
 
 
 
-!\[Pantalla Principal](./Capturas/inicio.png)
+![Pantalla Principal](./Capturas/inicio.png)
 
 
 
-\---
+---
 
 
 
-\### Interfaz del Reproductor
+### Interfaz del Reproductor
 
 
 
@@ -208,15 +208,15 @@ La aplicación presenta un diseño moderno con animación en la portada de la ca
 
 
 
-!\[Interfaz del Reproductor](./Capturas/portada.png)
+![Interfaz del Reproductor](./Capturas/portada.png)
 
 
 
-\---
+---
 
 
 
-\### Reproducción de Música
+### Reproducción de Música
 
 
 
@@ -224,15 +224,15 @@ El usuario puede reproducir y pausar canciones mediante los controles del reprod
 
 
 
-!\[Reproducción de Música](./Capturas/pausa.png)
+![Reproducción de Música](./Capturas/pausa.png)
 
 
 
-\---
+---
 
 
 
-\### Cambio de Canciones
+### Cambio de Canciones
 
 
 
@@ -240,15 +240,15 @@ La aplicación permite avanzar o retroceder entre canciones de la playlist.
 
 
 
-!\[Cambio de Canciones](./Capturas/cambio\_cancion.png)
+![Cambio de Canciones](./Capturas/cambio\_cancion.png)
 
 
 
-\---
+---
 
 
 
-\### Barra de Progreso
+### Barra de Progreso
 
 
 
@@ -256,19 +256,19 @@ Se muestra el avance de la canción en tiempo real mediante una barra interactiv
 
 
 
-!\[Barra de Progreso](./Capturas/progreso.png)
+![Barra de Progreso](./Capturas/progreso.png)
 
 
 
-\---
+---
 
 
 
-\## 7. Reflexión Personal
+## 7. Reflexión Personal
 
 
 
-\### ¿Qué aprendí?
+### ¿Qué aprendí?
 
 
 
@@ -276,11 +276,11 @@ Aprendí a desarrollar una aplicación móvil utilizando Flutter con reproducci�
 
 
 
-\---
+---
 
 
 
-\### ¿Qué fue difícil?
+### ¿Qué fue difícil?
 
 
 
@@ -288,11 +288,11 @@ Uno de los principales retos fue la integración de la librería de audio y la s
 
 
 
-\---
+---
 
 
 
-\### ¿Qué mejoraría?
+### ¿Qué mejoraría?
 
 
 
