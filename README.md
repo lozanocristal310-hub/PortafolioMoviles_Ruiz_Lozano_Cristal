@@ -83,7 +83,7 @@ En él se integran diferentes proyectos enfocados en:
 | **📊 Proyecto 1: Análisis de Datos con Dart** | Aplicación de consola para analizar datos almacenados en archivos JSON mediante búsquedas, filtros y estadísticas. | Dart, JSON, dart:io, dart:convert |
 
 <p align="center">
-<img src="Proyecto_01_AnalisisDatosDart/Capturas/menu_inicio.png" width="510"/>
+<img src="Proyecto_01_AnalisisDatosDart/Capturas/menu_inicio.png" width="420"/>
 </p>
 
 | Proyecto                                             | Descripción                                                                                         | Tecnologías Implementadas      |
@@ -91,7 +91,7 @@ En él se integran diferentes proyectos enfocados en:
 | **📱 Proyecto 2: Generador de Palabras y Favoritos** | Aplicación móvil que genera palabras aleatorias y permite administrarlas en una lista de favoritos. | Flutter, Dart, Material Design |
 
 <p align="center">
-<img src="Proyecto_02_PalabrasAleatorias/Capturas/Next.png" width="450"/>
+<img src="Proyecto_02_PalabrasAleatorias/Capturas/Next.png" width="400"/>
 </p>
 
 | Proyecto                                      | Descripción                                                                                      | Tecnologías Implementadas         |
