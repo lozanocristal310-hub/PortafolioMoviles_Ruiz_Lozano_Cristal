@@ -72,7 +72,7 @@ En él se integran diferentes proyectos enfocados en:
 
 ## 📁 Estructura del Repositorio
 
-<img src="https://drive.google.com/uc?export=view&id=1p2RJzLq_mOOtKD7RAS1Vz719LuRQklM6" alt="Estructura del Repositorio" width="400">
+<img src="https://drive.google.com/uc?export=view&id=1p2RJzLq_mOOtKD7RAS1Vz719LuRQklM6" alt="Estructura del Repositorio" width="500">
 
 ---
 
