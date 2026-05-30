@@ -1,8 +1,8 @@
-\# Proyecto 1: Análisis de Datos con Dart
+# Proyecto 1: Análisis de Datos con Dart
 
 
 
-\## 1. Objetivo del Proyecto
+## 1. Objetivo del Proyecto
 
 
 
@@ -10,11 +10,11 @@ Desarrollar una aplicación de consola en Dart que permita cargar, procesar y an
 
 
 
-\---
+---
 
 
 
-\## 2. Problema que Resuelve
+## 2. Problema que Resuelve
 
 
 
@@ -26,33 +26,33 @@ Además, genera automáticamente un archivo de resumen con los resultados obteni
 
 
 
-\---
+---
 
 
 
-\## 3. Tecnologías Utilizadas
+## 3. Tecnologías Utilizadas
 
 
 
-\* Dart
+* Dart
 
-\* Visual Studio Code
+* Visual Studio Code
 
-\* JSON
+* JSON
 
-\* GitHub
-
-
-
-\---
+* GitHub
 
 
 
-\## 4. Conceptos Aplicados
+---
 
 
 
-\### Programación Orientada a Objetos (POO)
+## 4. Conceptos Aplicados
+
+
+
+### Programación Orientada a Objetos (POO)
 
 
 
@@ -60,7 +60,7 @@ Se implementó la clase `Registro` para representar cada registro almacenado en 
 
 
 
-\### Null Safety
+### Null Safety
 
 
 
@@ -68,13 +68,13 @@ Se utilizaron mecanismos de seguridad como:
 
 
 
-\* `required`
+* `required`
 
-\* `??`
+* `??`
 
-\* `int.tryParse()`
+* `int.tryParse()`
 
-\* `double.tryParse()`
+* `double.tryParse()`
 
 
 
@@ -82,7 +82,7 @@ para evitar errores relacionados con valores nulos o entradas inválidas.
 
 
 
-\### Lectura y Escritura de Archivos JSON
+### Lectura y Escritura de Archivos JSON
 
 
 
@@ -90,7 +90,7 @@ Se utilizaron las librerías `dart:io` y `dart:convert` para leer información d
 
 
 
-\### Estructuras de Datos
+### Estructuras de Datos
 
 
 
@@ -98,7 +98,7 @@ Se emplearon listas (`List`) y mapas (`Map`) para almacenar y manipular la infor
 
 
 
-\### Programación Funcional
+### Programación Funcional
 
 
 
@@ -106,13 +106,13 @@ Se utilizaron métodos como:
 
 
 
-\* `map()`
+* `map()`
 
-\* `where()`
+* `where()`
 
-\* `fold()`
+* `fold()`
 
-\* `reduce()`
+* `reduce()`
 
 
 
@@ -120,7 +120,7 @@ para realizar búsquedas, filtrados y cálculos estadísticos de manera eficient
 
 
 
-\### Manejo de Excepciones
+### Manejo de Excepciones
 
 
 
@@ -128,7 +128,7 @@ Se implementaron bloques `try-catch` para controlar posibles errores durante la 
 
 
 
-\### Generación de Estadísticas
+### Generación de Estadísticas
 
 
 
@@ -136,27 +136,27 @@ La aplicación calcula:
 
 
 
-\* Total de registros.
+* Total de registros.
 
-\* Promedio de edades.
+* Promedio de edades.
 
-\* Promedio de salarios.
+* Promedio de salarios.
 
-\* Edad mínima y máxima.
+* Edad mínima y máxima.
 
-\* Salario mínimo y máximo.
+* Salario mínimo y máximo.
 
-\* Cantidad de personas menores de 30 años.
+* Cantidad de personas menores de 30 años.
 
-\* Cantidad de personas con salario mayor o igual a $7000.
-
-
-
-\---
+* Cantidad de personas con salario mayor o igual a $7000.
 
 
 
-\## 5. Instrucciones de Ejecución
+---
+
+
+
+## 5. Instrucciones de Ejecución
 
 
 
@@ -184,19 +184,19 @@ dart run main.dart
 
 
 
-\*\*Importante:\*\* El archivo `datos.json` debe encontrarse en la misma carpeta que el archivo `main.dart`.
+**Importante:** El archivo `datos.json` debe encontrarse en la misma carpeta que el archivo `main.dart`.
 
 
 
-\---
+---
 
 
 
-\## 6. Capturas de Pantalla
+## 6. Capturas de Pantalla
 
 
 
-\### Menú Principal
+### Menú Principal
 
 
 
@@ -204,15 +204,15 @@ Al ejecutar la aplicación se muestra un menú interactivo que permite acceder a
 
 
 
-!\[Menú Principal](Capturas/menu\_inicio.png)
+!\[Menú Principal](Capturas/menu_inicio.png)
 
 
 
-\---
+---
 
 
 
-\### Archivo de Datos JSON
+### Archivo de Datos JSON
 
 
 
@@ -224,11 +224,11 @@ El archivo `datos.json` contiene los 20 registros utilizados para realizar el an
 
 
 
-\---
+---
 
 
 
-\### Opción 1 - Mostrar Registros
+### Opción 1 - Mostrar Registros
 
 
 
@@ -240,11 +240,11 @@ Muestra todos los registros cargados desde el archivo JSON, incluyendo nombre, e
 
 
 
-\---
+---
 
 
 
-\### Opción 4 - Filtrar por Salario
+### Opción 4 - Filtrar por Salario
 
 
 
@@ -256,11 +256,11 @@ Permite ingresar un salario mínimo de $7000. El sistema muestra únicamente los
 
 
 
-\---
+---
 
 
 
-\### Opción 6 - Exportar Resumen
+### Opción 6 - Exportar Resumen
 
 
 
@@ -272,11 +272,11 @@ Genera automáticamente un archivo denominado `resumen.json` que contiene las es
 
 
 
-\---
+---
 
 
 
-\### Resultados Generados
+### Resultados Generados
 
 
 
@@ -288,15 +288,15 @@ Visualización del contenido del archivo `resumen.json` generado por la aplicaci
 
 
 
-\---
+---
 
 
 
-\## 7. Reflexión Personal
+## 7. Reflexión Personal
 
 
 
-\### ¿Qué aprendí?
+### ¿Qué aprendí?
 
 
 
@@ -304,7 +304,7 @@ Aprendí a trabajar con archivos JSON en Dart, convertir datos entre formato JSO
 
 
 
-\### ¿Qué fue difícil?
+### ¿Qué fue difícil?
 
 
 
@@ -312,7 +312,7 @@ Uno de los aspectos más desafiantes fue implementar correctamente las funciones
 
 
 
-\### ¿Qué mejoraría?
+### ¿Qué mejoraría?
 
 
 
