@@ -1,11 +1,3 @@
-**README completo ya adaptado al formato del Proyecto 2 (Flutter)** 
-
-
-
----
-
-
-
 # Proyecto 2: Aplicación de Flutter (Generador de Palabras y Favoritos)
 
 
@@ -250,7 +242,7 @@ Al presionar el botón “Next”, se genera una nueva combinación de palabras.
 
 
 
-El usuario puede marcar palabras como favoritas utilizando el botón de corazón.
+El usuario puede marcar palabras como favoritas utilizando el botón de Like.
 
 
 
