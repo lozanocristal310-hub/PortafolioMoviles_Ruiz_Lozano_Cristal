@@ -82,11 +82,12 @@ En él se integran diferentes proyectos enfocados en:
 
 ## 📱 Proyectos Incluidos
 
-| Proyecto | Descripción | Tecnologías Implementadas | Evidencia |
-| :--- | :--- | :--- | :---: |
-| **📊 Proyecto 1: Análisis de Datos con Dart** | Aplicación de consola para cargar, procesar y analizar información almacenada en archivos JSON. Permite realizar búsquedas, filtrados, cálculos estadísticos y exportación de reportes. | Dart, JSON, dart:io, dart:convert, Visual Studio Code | <img src="Proyecto_01_AnalisisDatosDart/Capturas/menu_inicio.png" width="180"/> |
-| **📱 Proyecto 2: Generador de Palabras y Favoritos** | Aplicación móvil desarrollada en Flutter que genera palabras aleatorias, permite marcarlas como favoritas y administrarlas mediante una interfaz interactiva con navegación entre pantallas. | Flutter, Dart, Material Design, Visual Studio Code | <img src="Proyecto_02_GeneradorPalabras/Capturas/Like.png" width="180"/> |
-| **🎵 Proyecto 3: Mini Reproductor de Música** | Aplicación multimedia que permite reproducir archivos MP3, controlar la reproducción y visualizar el progreso del audio en tiempo real mediante una interfaz moderna e interactiva. | Flutter, Dart, just_audio, rxdart, Material Design | <img src="Proyecto_03_ReproductorMusica/Capturas/progreso.png" width="180"/> |
+| Proyecto                                             | Descripción                                                                                                        | Tecnologías Implementadas         |                                    Evidencia                                    |
+| :--------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- | :-------------------------------- | :-----------------------------------------------------------------------------: |
+| **📊 Proyecto 1: Análisis de Datos con Dart**        | Aplicación de consola para analizar datos almacenados en archivos JSON mediante búsquedas, filtros y estadísticas. | Dart, JSON, dart:io, dart:convert | <img src="Proyecto_01_AnalisisDatosDart/Capturas/menu_inicio.png" width="180"/> |
+| **📱 Proyecto 2: Generador de Palabras y Favoritos** | Aplicación móvil que genera palabras aleatorias y permite administrarlas en una lista de favoritos.                | Flutter, Dart, Material Design    |     <img src="Proyecto_02_GeneradorPalabras/Capturas/Like.png" width="180"/>    |
+| **🎵 Proyecto 3: Mini Reproductor de Música**        | Aplicación móvil para reproducir música, controlar canciones y visualizar el progreso del audio.                   | Flutter, Dart, just_audio, rxdart |   <img src="Proyecto_03_ReproductorMusica/Capturas/progreso.png" width="180"/>  |
+
 
 
 ---
