@@ -34,14 +34,15 @@ Además, genera automáticamente un archivo de resumen con los resultados obteni
 
 
 
-* Dart
+* **Dart** - Lenguaje de programación utilizado para desarrollar la lógica de la aplicación, aprovechando su tipado seguro y Null Safety.
 
-* Visual Studio Code
+* **Visual Studio Code** - Entorno de desarrollo integrado (IDE) utilizado para escribir, depurar y ejecutar el código Dart.
 
-* JSON
+* **JSON** - Formato de intercambio de datos utilizado para almacenar los registros de personas y exportar los resultados estadísticos.
 
-* GitHub
+* **dart:io** - Librería de Dart que permite la lectura y escritura de archivos, así como la interacción con el sistema de archivos y la consola.
 
+* **dart:convert** - Librería de Dart utilizada para convertir datos entre formato JSON y objetos Dart mediante `jsonDecode()` y `jsonEncode()`
 
 
 ---
@@ -204,7 +205,8 @@ Al ejecutar la aplicación se muestra un menú interactivo que permite acceder a
 
 
 
-![Menú Principal](Proyecto_01_AnalisisDatosDart/Capturas/menu_inicio.png)
+
+https://Capturas/menu_inicio.png
 
 
 
@@ -268,7 +270,7 @@ Genera automáticamente un archivo denominado `resumen.json` que contiene las es
 
 
 
-!\[Exportar Resumen](Proyecto_01_AnalisisDatosDart/Capturas/opcion6.png)
+\[Exportar Resumen](Capturas/opcion6.png)
 
 
 
