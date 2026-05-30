@@ -204,7 +204,7 @@ Al ejecutar la aplicación se muestra un menú interactivo que permite acceder a
 
 
 
-!\[Menú Principal](Capturas/menu_inicio.png)
+![Menú Principal](Proyecto_01_AnalisisDatosDart/Capturas/menu_inicio.png)
 
 
 
@@ -220,7 +220,7 @@ El archivo `datos.json` contiene los 20 registros utilizados para realizar el an
 
 
 
-!\[Archivo JSON](Capturas/datos.png)
+!\[Archivo JSON](Proyecto_01_AnalisisDatosDart/Capturas/datos.png)
 
 
 
@@ -236,7 +236,7 @@ Muestra todos los registros cargados desde el archivo JSON, incluyendo nombre, e
 
 
 
-!\[Mostrar Registros](Capturas/opcion1.png)
+!\[Mostrar Registros](Proyecto_01_AnalisisDatosDart/Capturas/opcion1.png)
 
 
 
@@ -252,7 +252,7 @@ Permite ingresar un salario mínimo de $7000. El sistema muestra únicamente los
 
 
 
-!\[Filtrar por Salario](Capturas/opcion4.png)
+!\[Filtrar por Salario](Proyecto_01_AnalisisDatosDart/Capturas/opcion4.png)
 
 
 
@@ -268,7 +268,7 @@ Genera automáticamente un archivo denominado `resumen.json` que contiene las es
 
 
 
-!\[Exportar Resumen](Capturas/opcion6.png)
+!\[Exportar Resumen](Proyecto_01_AnalisisDatosDart/Capturas/opcion6.png)
 
 
 
@@ -284,7 +284,7 @@ Visualización del contenido del archivo `resumen.json` generado por la aplicaci
 
 
 
-!\[Resultados](Capturas/resultados.png)
+!\[Resultados](Proyecto_01_AnalisisDatosDart/Capturas/resultados.png)
 
 
 
