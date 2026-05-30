@@ -1,47 +1,27 @@
 # Portafolio de Proyectos — Desarrollo de Aplicaciones para Dispositivos Móviles
 
+<table>
+<tr>
+<td width="160">
 
----
+<img src="https://www.lerdo.tecnm.mx/images/logo.png" width="140"/>
 
-
+</td>
+<td>
 
 ## Información del Alumno
 
+- **Nombre:** Cristal Ruiz Lozano  
+- **Número de control:** 222310571  
+- **Materia:** Desarrollo de Aplicaciones para Dispositivos Móviles  
+- **Institución:** Instituto Tecnológico Superior de Lerdo  
+- **Docente:** Jesús Salas Marín  
+- **Semestre:** Octavo semestre  
+- **Periodo:** Ene - Jun 2026  
 
-
-| Campo                 | Información                                          |
-
-| :-------------------- | :--------------------------------------------------- |
-
-| **Nombre**            | Cristal Ruiz Lozano                                  |
-
-| **Número de control** | 222310571                                            |
-
-| **Materia**           | Desarrollo de Aplicaciones para Dispositivos Móviles |
-
-| **Institución**       | Instituto Tecnológico Superior de Lerdo              |
-
-| **Docente**           | Jesús Salas Marín                                    |
-
-| **Semestre**          | Octavo semestre                                      |
-
-| **Periodo**           | Ene - Jun 2026                                       |
-
-
-
----
-
-
-
-## 🏫 Institución
-
-
-
-![Instituto Tecnológico Superior de Lerdo](https://tse3.mm.bing.net/th/id/OIP.qQupj_Qcl-ccaiwVz1CmdAHaHc?rs=1&pid=ImgDetMain&o=7&rm=3)
-
-
-
----
+</td>
+</tr>
+</table>
 
 
 
@@ -78,31 +58,24 @@ En él se integran diferentes proyectos enfocados en:
 
 
 
-| Tecnología                                                                                                                                | Descripción                                           |
+## 🧰 Tecnologías Utilizadas
 
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="20"/> **Dart**                   | Lenguaje principal para la lógica de las aplicaciones |
-
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="20"/> **Flutter**          | Framework para desarrollo móvil multiplataforma       |
-
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20"/> **Visual Studio Code*\* | Entorno de desarrollo                                 |
-
-| <img src="https://github.githubassets.com/images/modules/logos\_page/GitHub-Mark.png" width="20"/> **GitHub**                              | Control de versiones y alojamiento de proyectos       |
-
-| 📐 **Material Design**                                                                                                                    | Sistema de diseño para interfaces modernas            |
+| Tecnología | Descripción |
+|------------|-------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="20"/> Dart | Lenguaje principal para la lógica de las aplicaciones |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="20"/> Flutter | Framework para desarrollo móvil multiplataforma |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20"/> Visual Studio Code | Entorno de desarrollo |
+| <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"/> GitHub | Control de versiones y alojamiento de proyectos |
+| 📐 Material Design | Sistema de diseño para interfaces modernas |
 
 
 
 ---
 
 
-
 ## 📁 Estructura del Repositorio
 
-
-
-[https://drive.google.com/file/d/1p2RJzLq\_mOOtKD7RAS1Vz719LuRQklM6/view?usp=sharing](https://drive.google.com/file/d/1p2RJzLq\_mOOtKD7RAS1Vz719LuRQklM6/view?usp=sharing)
+![Evidencias](https://drive.google.com/uc?export=view\\\&id=1p2RJzLq\_mOOtKD7RAS1Vz719LuRQklM6)
 
 
 
@@ -151,11 +124,6 @@ Aplicación multimedia en Flutter con reproducción de audio, animaciones, barra
 
 
 ## 📂 Evidencias
-
-
-
-![Evidencias](https://drive.google.com/uc?export=view\\\&id=1p2RJzLq\_mOOtKD7RAS1Vz719LuRQklM6)
-
 
 
 La carpeta **Evidencias/** contiene capturas del desarrollo de los tres proyectos:
