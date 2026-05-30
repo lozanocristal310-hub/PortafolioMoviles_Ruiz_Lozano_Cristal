@@ -5,7 +5,7 @@
 <td width="160">
 
 
-![Instituto Tecnológico Superior de Lerdo](https://tse3.mm.bing.net/th/id/OIP.qQupj_Qcl-ccaiwVz1CmdAHaHc?rs=1&pid=ImgDetMain&o=7&rm=3)
+![Instituto Tecnológico Superior de Lerdo](https://www.lerdo.tecnm.mx/institucion/descargas)
 
 </td>
 <td>
