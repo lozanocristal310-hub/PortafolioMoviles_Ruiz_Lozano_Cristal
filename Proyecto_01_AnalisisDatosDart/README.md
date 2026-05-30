@@ -206,7 +206,7 @@ Al ejecutar la aplicación se muestra un menú interactivo que permite acceder a
 
 
 
-![Menu](./capturas/menu_inicio.png)
+![Menu](./Capturas/menu_inicio.png)
 
 
 ---
@@ -222,7 +222,7 @@ El archivo `datos.json` contiene los 20 registros utilizados para realizar el an
 
 
 
-![Archivo JSON](./capturas/datos.png)
+![Archivo JSON](./Capturas/datos.png)
 
 
 
@@ -238,7 +238,7 @@ Muestra todos los registros cargados desde el archivo JSON, incluyendo nombre, e
 
 
 
-![Mostrar Registros](./capturas/opcion1.png)
+![Mostrar Registros](./Capturas/opcion1.png)
 
 
 
