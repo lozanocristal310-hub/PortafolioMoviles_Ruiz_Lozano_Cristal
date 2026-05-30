@@ -4,7 +4,8 @@
 <tr>
 <td width="160">
 
-<img src="https://www.lerdo.tecnm.mx/images/logo.png" width="140"/>
+
+![Instituto Tecnológico Superior de Lerdo](https://tse3.mm.bing.net/th/id/OIP.qQupj_Qcl-ccaiwVz1CmdAHaHc?rs=1&pid=ImgDetMain&o=7&rm=3)
 
 </td>
 <td>
@@ -51,10 +52,6 @@ En él se integran diferentes proyectos enfocados en:
 
 
 ---
-
-
-
-## 🧰 Tecnologías Utilizadas
 
 
 
