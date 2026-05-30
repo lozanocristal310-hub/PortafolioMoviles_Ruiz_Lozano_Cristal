@@ -91,7 +91,7 @@ En él se integran diferentes proyectos enfocados en:
 | **📱 Proyecto 2: Generador de Palabras y Favoritos** | Aplicación móvil que genera palabras aleatorias y permite administrarlas en una lista de favoritos. | Flutter, Dart, Material Design |
 
 <p align="center">
-<img src="Proyecto_02_PalabrasAleatorias/Capturas/Next.png" width="550"/>
+<img src="Proyecto_02_PalabrasAleatorias/Capturas/Next.png" width="500"/>
 </p>
 
 | Proyecto                                      | Descripción                                                                                      | Tecnologías Implementadas         |
